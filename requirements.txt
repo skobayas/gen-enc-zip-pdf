@@ -1,0 +1,5 @@
+defusedxml==0.7.1
+fonttools==4.49.0
+fpdf2==2.7.8
+pillow==10.2.0
+pyminizip==0.2.6
